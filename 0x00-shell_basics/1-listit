@@ -1,2 +1,2 @@
-README.md
-0_current_woerking_directory
+#!/bin/bash
+ls
