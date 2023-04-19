@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH="ls -al | grep wc -l"
+ls -al | grep wc -l
